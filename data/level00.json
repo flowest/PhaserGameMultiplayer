@@ -1,0 +1,24 @@
+{
+    "platforms": [
+        {"image": "ground", "x": 0, "y": 546}
+    ],
+    "decoration": [
+        {"frame": 2, "x": 630, "y": 525},
+        {"frame": 2, "x": 663, "y": 525},
+        {"frame": 2, "x": 697, "y": 525},
+        {"frame": 3, "x": 756, "y": 525},
+        {"frame": 1, "x": 84, "y": 525},
+        {"frame": 0, "x": 252, "y": 525}
+    ],
+    "coins": [],
+    "hero": {"x": 21, "y": 525},
+    "spiders": [],
+    "frogs":[],
+    "eagles":[],
+    "opossums":[],
+    "door": {"x": 350, "y": 546, "doorType" : "door2"},
+    "key": {"x": 525, "y": 5000},
+    "background" : "background",
+    "backgroundColor":"#dbebff",
+    "gravity": 1200
+}

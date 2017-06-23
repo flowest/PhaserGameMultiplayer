@@ -1,0 +1,25 @@
+{
+    "platforms": [
+        {"image": "ground", "x": 0, "y": 546},
+        {"image": "grass:4x1", "x": 20, "y": 420},
+        {"image": "grass:4x1", "x": 420, "y": 220},
+        {"image": "grass:4x1", "x": 420, "y": 20},
+        {"image": "grass:4x1", "x": 420, "y": -220},
+        {"image": "grass:4x1", "x": 20, "y": -420},
+        {"image": "grass:4x1", "x": 120, "y": -715}
+    ],
+    "decoration": [],
+    "coins": [
+        {"x": 819, "y": 525}, {"x": 861, "y": 525}, {"x": 903, "y": 525}
+    ],
+    "hero": {"x": 21, "y": 525},
+    "spiders": [],
+    "frogs":[{"x": 450, "y": 340}],
+    "eagles":[{"x": 650, "y": 340}],
+    "opossums":[{"x": 250, "y": 240}],
+    "door": {"x": 220, "y": -715, "doorType" : "door"},
+    "key": {"x": 825, "y": -500},
+    "background" : "background",
+    "backgroundColor":"#dbebff",
+    "gravity": 600
+}
